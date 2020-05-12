@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   strong structural and tooling choices, which ODC members believe help developers - and
   development - being more effective within the context of digital centers. (Even though
   we believe large portions also help being more effective in any development project)
-baseurl: "https://www.opinionated-digital-center.org"
+baseurl: "https://blog.opinionated-digital-center.org"
 #twitter_username: username
 github_username: opinionated-digital-center
 minimal_mistakes_skin: default

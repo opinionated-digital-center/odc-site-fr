@@ -72,7 +72,7 @@ plugins:
 
 # Analytics
 analytics:
-  provider : "google-universal"
+  provider : "google-gtag"
   google:
     tracking_id : "UA-166618011-1"
     anonymize_ip : false

@@ -7,7 +7,7 @@ author_profile: true
 title: "Bienvenue sur le site de l'Opinionated Digital Center"
 toc: true
 ---
-## Our aim
+## Notre objectif
 
 The aim of the Opinionated Digital Center is to share directly usable resources such as
 templates, tools and knowledge, which reflect strong opinions on how to help

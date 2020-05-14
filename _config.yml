@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "fr"
 title: Opinionated Digital Center
 email: info@opinionated-digital-center.org
 description: >- # this means to ignore newlines until "baseurl:"
@@ -81,19 +82,8 @@ author:
   name   : "Opinionated Digital Center"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Frees developers' creativity and potential through effective processes and tooling."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.opinionated-digital-center.org"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/opinionated-digital-center"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+  uri: "https://www.opinionated-digital-center.org"
+  github: "opinionated-digital-center"
 
 footer:
   links:

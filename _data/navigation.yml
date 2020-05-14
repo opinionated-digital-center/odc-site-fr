@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title_ui_text_key: posts_label
     url: /posts/
-  - title: "Categories"
+  - title_ui_text_key: categories_label_no_colon
     url: /categories/
-  - title: "Tags"
+  - title_ui_text_key: tags_label_no_colon
     url: /tags/
-  - title: "About"
+  - title_ui_text_key: about_label
     url: /about/

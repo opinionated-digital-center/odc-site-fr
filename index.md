@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: "Welcome to the Opinionated Digital Center's site"
+title: "Bienvenue sur le site de l'Opinionated Digital Center"
 toc: true
 ---
 ## Our aim

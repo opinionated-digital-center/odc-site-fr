@@ -70,6 +70,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider : "google-universal"
+  google:
+    tracking_id : "UA-166618011-1"
+    anonymize_ip : false
+
 author:
   name   : "Opinionated Digital Center"
   avatar : "/assets/images/bio-photo.jpg"

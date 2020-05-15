@@ -19,9 +19,10 @@ translation_subdomain: www
 title: Opinionated Digital Center
 email: contact@opinionated-digital-center.org
 description: >- # this means to ignore newlines until "baseurl:"
-  The Opinionated Digital Center is "opinionated" in the sense that is it reflects
-  strong structural and tooling choices, which ODC members believe help developers - and
-  development - being more effective within the context of digital development centers.
+  L'Opinionated Digital Center est "opinionated" dans le sens qu'il reflète des choix
+  forts de structures et d'outillage, dont les membres de l'ODC pensent sincèrement
+  qu'ils aident les développeurs - et le développement logiciel - à être plus efficient
+  dans le contexte des centres de développement numérique.
 #baseurl: ""
 #twitter_username: username
 github_username: opinionated-digital-center
@@ -82,7 +83,7 @@ analytics:
 author:
   name   : "Opinionated Digital Center"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Argumented opinions, deployable processes and tools that help your digital development center deliver value... now."
+  bio    : "Opinions argumentées, outils et processus déployables qui aident votre centre de développement numérique à livrer de la valeur... maintenant."
   uri: "https://www.opinionated-digital-center.org"
   email: contact@opinionated-digital-center.org
   github: "opinionated-digital-center"

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Opinionated Digital Center's website!"
+title: "Bienvenue sur le site de l'Opinionated Digital Center !"
 date: 2019-05-12T20:30
 categories:
   - blog
@@ -7,22 +7,8 @@ tags:
   - news
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Nous sommes fier d'annoncer aujourd'hui la mise en ligne de ce site.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Nous espérons que vous trouverez son contenu utile, et que celui-ci vous aidera,
+d'un manière ou d'un autre, à concentrer vos efforts sur la réalisation concrète de
+vos idées plutôt de perdre du temps à mettre les bases en place.

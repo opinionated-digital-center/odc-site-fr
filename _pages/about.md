@@ -7,7 +7,7 @@ toc: true
 
 L'objectif de l'Opinionated Digital Center est de partager des ressources directement
 utilisables -- sous forme de templates, outils et connaissance organisée -- ,
-qui reflètent de fortes opinions sur ce que nous pensons va aider
+qui reflètent de fortes opinions sur ce qui nous pensons va aider
 développeurs, équipes et organisations à être plus efficients dans le contexte
 des centres de développement numériques.
 
@@ -37,15 +37,15 @@ Les ressources que nous partageons sont :
 ### Expliquées
 
 * Le raisonnement et l'argumentation derrière nos choix sont écrits, principalement
-  sous la forme d'Architecture
-  Decision Records (voir [ADR-0000](https://github.com/opinionated-digital-center/architecture-decision-records/blob/master/docs/adr/0000-record-architecture-decisions.md)
+  sous la forme d'Architecture Decision Records (voir 
+  [ADR-0000](https://github.com/opinionated-digital-center/architecture-decision-records/blob/master/docs/adr/0000-record-architecture-decisions.md)
   et [ADR-0001](https://github.com/opinionated-digital-center/architecture-decision-records/blob/master/docs/adr/0001-use-markdown-architectural-decision-records.md)).
 
 ### Documentées
 
 * Nos ressources sont présentées avec une documentation la plus utile et complète
   possible, sous formes variées (documentation classique, tests humainement lisibles
-  et compréhensibles écrit en
+  et compréhensibles écrits en
   [Gherkin](https://cucumber.io/docs/gherkin/reference/), pour ne donner que deux
   exemples).
 * Des références sont mentionnées où que possible et utile (voir
@@ -57,11 +57,11 @@ Les ressources que nous partageons sont :
 * Aucun code n'est livré sans une
   [suite complète de tests](https://github.com/opinionated-digital-center/python-library-project-generator/blob/master/README.rst#fully-tested-features).
 * Nous tachons de rester aussi proche que possible des principes et pratiques du
-  [Software Crafsmanship](https://fr.wikipedia.org/wiki/Software_craftsmanship).
+  [Software Crafsmanship](https://manifesto.softwarecraftsmanship.org/).
 
 ### Aussi simple que possible à mettre en place
 
-* Nous tachons de mettre à disposition aussi souvent que possible des outils
+* Nous tâchons de mettre à disposition aussi souvent que possible des outils
   d'automatisation d'installation, couplés avec une documentation détaillée.
 
 ## Fondateurs
@@ -76,7 +76,7 @@ Les ressources que nous partageons sont :
 ## Contributeurs distingués
 
 {% for item in site.data.authors %}
-{% if item[0] != "esciara" %}
+{% if item[0] == "contributor" %}
 {% assign author = item[1] %}
 {% include author-details.html %}
 {% endif %}

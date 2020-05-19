@@ -49,7 +49,7 @@ Les ressources que nous partageons sont :
 ## Contributeurs distingués
 
 {% for item in site.data.authors %}
-{% if item[0] == "contributor" %}
+{% if item[1].type != "founder" %}
 {% assign author = item[1] %}
 {% include author-details.html %}
 {% endif %}

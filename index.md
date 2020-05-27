@@ -7,7 +7,7 @@ author_profile: true
 title: "Bienvenue sur le site de l'Opinionated Digital Center"
 toc: true
 ---
-Visiter notre page [A propos](/about/) pour en savoir plus sur l'objectif du centre, sur comment nous essayons de l'atteindre, et comment nous avons organisé nos ressources (autres que les billets et articles de ce site).
+Visitez notre page [A propos](/about/) pour en savoir plus sur l'objectif du centre, sur comment nous essayons de l'atteindre, et comment nous avons organisé nos ressources (autres que les billets et articles de ce site).
 
 ## Liste des ressources
 
